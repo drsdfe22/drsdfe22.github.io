@@ -31,6 +31,13 @@ body {
   padding: 0 20px;
 }
 
+.container {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-height: 100%;
+}
+
 .card {
   background: rgba(from var(--primary-color) r g b/0.3);
   box-sizing: border-box;
@@ -634,9 +641,11 @@ nav {
 
 footer {
   border-radius: 15px 15px 0 0;
+  margin-top: auto;
   margin-bottom: 0;
   height: 80px;
   display: flex;
+  flex-shrink: 0;
 }
 
 .copyright {
