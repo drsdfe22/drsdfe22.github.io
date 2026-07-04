@@ -84,5 +84,6 @@ Metalheart 属于Y2K未来主义美学体系中的偏技术向分支，其特点
 Metalheart（金属核）是一种融合金属质感与数字界面的未来主义美学风格，它通过抽象造型、光效与系统化UI设计，构建出一种介于现实与虚拟之间的技术未来视觉语言。
 
 ---
-
+来源：https://aesthetics.fandom.com/zh/wiki/Metalheart
+---
 关键词：Metalheart / 金属核 / Y2K美学 / 赛博风格 / 未来主义设计
