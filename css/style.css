@@ -19,12 +19,10 @@ body {
   font-family: "SimSun", "宋体", sans-serif;
   color: var(--black-main);
   margin: 0 auto;
-  background-image: var(--bg-image);
+  background-image: url("../images/bg.jpg");
   background-size: cover;
-  background-attachment: fixed;
-}
-
-.container {
+  background-position: center;
+  background-repeat: no-repeat;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
