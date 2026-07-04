@@ -3,14 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 红耳鹎怀旧网
-subtitle: ' 一个2000s风格的个人博客'
-description: 'Frutiger Aero风格博客'
+title: 红耳鸭怀旧网
+subtitle: "What year is it tonight?"
+description: "It's just feelings."
 keywords:
-author: 红耳鹎
+author: 红耳鸭
 language: zh-CN
 timezone: ''
-
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://example.com
